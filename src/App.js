@@ -1,7 +1,8 @@
 import React from 'react';
 
 import './App.css';
-import FoodList from './components/food/foodlist/FoodList';
+import FoodForm from './components/food/food-form/FoodForm';
+import FoodList from './components/food/food-list/FoodList';
 
 
 
